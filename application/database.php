@@ -15,7 +15,7 @@ return [
     // 服务器地址
     'hostname'        => '47.99.191.246',
     // 数据库名
-    'database'        => 'classfee',
+    'database'        => 'blogsDatabase',
     // 用户名
     'username'        => 'root',
     // 密码

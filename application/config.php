@@ -240,4 +240,11 @@ return [
         'var_page'  => 'page',
         'list_rows' => 15,
     ],
+    'salt'=>'fjldream',
+    'jwtkey'=>'fjldream',
+    'code'=>[
+        'success'=>200,
+        'fail'=>404
+    ]
+
 ];

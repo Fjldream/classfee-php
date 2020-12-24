@@ -10,6 +10,7 @@
 // +----------------------------------------------------------------------
 use think\Route;
 Route::resource('login','index/Login');
+Route::resource('adminLogin','login/AdminLogin');
 return [
     '__pattern__' => [
         'name' => '\w+',
